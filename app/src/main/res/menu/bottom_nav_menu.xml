@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Stats"
+        android:icon="@drawable/baseline_query_stats_24"
+        android:id="@+id/news"/>
+    <item android:title="Vote"
+        android:icon="@drawable/baseline_how_to_vote_24"
+        android:id="@+id/vote"/>
+    <item android:title="Profile"
+        android:icon="@drawable/baseline_manage_accounts_24"
+        android:id="@+id/profile"/>
+</menu>
